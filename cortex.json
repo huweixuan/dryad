@@ -1,0 +1,21 @@
+{
+  "name": "dryad",
+  "version": "0.1.0",
+  "description": "The coolest cortex module.",
+  "main": "index.js",
+  "repository": "https://github.com/huweixuan/dryad",
+  "keywords": [],
+  "license": "MIT",
+  "author": {
+    "name": "huweixuan",
+    "email": "weixuan.hu@dianping.com"
+  },
+  "bugs": {
+    "url": "https://github.com/huweixuan/dryad/issues"
+  },
+  "homepage": "https://github.com/huweixuan/dryad",
+  "devDependencies": {
+    "neuron": "*",
+    "assert": "*"
+  }
+}
